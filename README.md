@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeotJH
 - 👀 I’m interested in continuous commit
-- 🌱 I’m currently make My Own Web Application to Srping & vue.js
+- 🌱 I’m currently make My Own Web Application to Srping & react
 - 💞️ I’m looking to collaborate on work in opensource
 - 📫 How to reach me businesskim93@gmail.com
 
